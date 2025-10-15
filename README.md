@@ -3,7 +3,7 @@
 </h1>
 
 ## 🐱 About Me
-I'm a second-year university student who loves coding ^^.
+Hi! I'm a second-year university student who loves coding ^^.
 
 ---
 
@@ -29,11 +29,12 @@ I'm a second-year university student who loves coding ^^.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
 ## 🌟 Connect with me
 - **Email:** [noe28092006@gmail.com](mailto:noe28092006@gmail.com)
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration. 🚀
+Thank you for stopping by! Feel free to explore my repositories or reach out for collaboration. 🚀
 
-
+<img width="50%" src="img1.gif"/>
