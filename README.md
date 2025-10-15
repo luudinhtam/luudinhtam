@@ -5,10 +5,14 @@
 ## 🐱 About Me
 I'm a second-year university student who loves coding ^^.
 
+---
+
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luudinhtam&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=luudinhtam&show_icons=true&theme=tokyonight&layout=compact)
+
+---
 
 ## 🔧 Tools & Technologies
 
@@ -24,17 +28,12 @@ I'm a second-year university student who loves coding ^^.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!--
-**luudinhtam/luudinhtam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🌟 Connect with me
+- **Email:** [noe28092006@gmail.com](mailto:noe28092006@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration. 🚀
+
+
