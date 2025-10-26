@@ -8,9 +8,9 @@ Hi! I'm a second-year university student who loves coding ^^.
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luudinhtam&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luudinhtam&show_icons=true&theme=react)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=luudinhtam&show_icons=true&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luudinhtam&layout=compact&theme=react)
 
 ---
 
