@@ -3,7 +3,7 @@
 </h1>
 
 ## 🐱 About Me
-Hi! I'm a second-year university student who loves coding ^^.
+Hi! I'm a second-year university student who loves coding and sharing ^^.
 
 ---
 
