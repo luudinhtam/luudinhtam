@@ -3,7 +3,7 @@
 </h1>
 
 ## About Me
-Hi! I'm a second-year university student who loves coding and sharing ^^.
+Hello! I'm a second-year university student with a strong passion for technology and coding. I enjoy exploring new technologies to improve my skills. I also love sharing knowledge and collaborating with others to grow together. My goal is to keep learning and contribute to meaningful tech projects.
 
 ---
 
