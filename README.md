@@ -1,6 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=435&height=100&lines=Hello!%F0%9F%A5%B0;I'm+Tam%F0%9F%A4%97" />
 </h1>
+
+
 
 ## About Me
 Hello! I'm a second-year university student with a strong passion for technology and coding. I enjoy exploring new technologies to improve my skills. I also love sharing knowledge and collaborating with others to grow together. My goal is to keep learning and contribute to meaningful tech projects.
