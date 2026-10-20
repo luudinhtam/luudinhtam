@@ -18,7 +18,7 @@ Hello! I'm a third-year university student with a strong passion for technology 
 ## Tools & Technologies
 
 ### **Languages**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp)](https://skillicons.dev)
 
 ### **Technologies**
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap)](https://skillicons.dev)
